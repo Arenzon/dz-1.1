@@ -6,12 +6,12 @@
 
 Проверка совместимости показала, что на текущей платформе не возникает проблем между ОС и установленной версией приложения
 
-[Проверка совместимости Java-my compatible-Win 10 Home](#https://github.com/Arenzon/dz-1.1/issues/4)
+[Проверка совместимости Java-my compatible-Win 10 Home](https://github.com/Arenzon/dz-1.1/issues/4)
 
 В результате тестирования выявлены следующие дефекты:
-* [Инструкция по установке OpenJDK11 на Windows. Версия установленного OpenJDK11 в инструкции не совпадает с фактически установленной](#https://github.com/Arenzon/dz-1.1/issues/1)
-* [Руководство использования KeyValidator. Валидные ключи при валидации имеют статус "FAIL"](#https://github.com/Arenzon/dz-1.1/issues/2)
-* [Руководство использования KeyValidator. Невалидный ключ успешно прошел валидацию](#https://github.com/Arenzon/dz-1.1/issues/3)
+* [Инструкция по установке OpenJDK11 на Windows. Версия установленного OpenJDK11 в инструкции не совпадает с фактически установленной](https://github.com/Arenzon/dz-1.1/issues/1)
+* [Руководство использования KeyValidator. Валидные ключи при валидации имеют статус "FAIL"](https://github.com/Arenzon/dz-1.1/issues/2)
+* [Руководство использования KeyValidator. Невалидный ключ успешно прошел валидацию](https://github.com/Arenzon/dz-1.1/issues/3)
  
 ## Описание процесса тестирования
 OpenJDK11 был успешно инсталлирован, запущен на платформе Windows 10 Home, х64 и совместим с Java 11.
